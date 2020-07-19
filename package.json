@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "jquery": "^3.4.0",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.19",
     "powerbi-models": "1.1.0",
     "powerbi-visuals-utils-chartutils": "1.9.0",
     "powerbi-visuals-utils-dataviewutils": "1.5.0",
